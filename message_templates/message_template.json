@@ -1,0 +1,13 @@
+{
+   "device":"@@@@@@@@",
+   "location":"@@@@@@@@",
+   "temperature_c":0,
+   "pressure":0,
+   "humidity":0,
+   "temperature_city_c":0,
+   "humidity_city":0,
+   "pressure_city":0,
+   "weather_report":"@@@@@@@@",
+   "date":"@@@@@@@@",
+   "time":"@@@@@@@@"
+}

@@ -1,0 +1,24 @@
+{
+   "city":{
+      "name":"Louvain-la-Neuve",
+      "lat":50.6682012,
+      "lon":4.6128839,
+      "country":"BE",
+      "state":"Walloon Brabant"
+   },
+   "open_weather":{
+      "url":"https://api.openweathermap.org/data/2.5/weather?",
+      "appid":"0f32287d988e4c9783d5a09ddffd8860",
+      "units":"metric"
+   },
+   "websocket":{
+      "ip":"192.168.1.14",
+      "port":"7777"
+   },
+   "rooms-direction":{
+	   "up":{"room":"Living-Room", "color":"(255, 0, 0)"},
+	   "down":{"room": "Bathroom", "color": "(0, 0, 255)"},
+      "left":{"room": "Bedroom", "color": "(0, 255, 0)"},
+	   "right":{"room": "Office", "color": "(255, 90, 0)"}
+	}
+}
